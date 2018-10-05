@@ -13,3 +13,6 @@
 ### Codebook
 
 **VARIABLES**
+1. Subject - the ID of the subject (the person) who was recorded. The data includes details about 30 individuals.
+2. Activity - the Activity the person was performing. The data includes details about 6 activities - Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing, Laying.
+3. 79 other variables which are mean and standard deviations of calculate accelerometer and gyroscope values
